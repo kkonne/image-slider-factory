@@ -5,6 +5,10 @@
 ```bash
 # Made for Factory.hr
 $ by Josip Leko
+
+# Tested on
+$ Brave
+$ Safari
 ```
 
 josipleko333@gmail.com
